@@ -11,3 +11,9 @@
  Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
  Text Domain:  newsphere-child
 */
+.bottom-bar, .header-menu-part {
+    height: 49px !important;
+}
+.exclusive-posts .exclusive-now {
+    padding: 0 16px !important;
+}
